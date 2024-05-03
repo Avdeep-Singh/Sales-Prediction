@@ -40,13 +40,6 @@ This code is a starting point for a sales prediction model. Further development 
 
 ## Running the Model
 
-Paste the following code directly into your Jupyter Notebook (or Python script) to run the model:
-
-```python
-import pandas as pd
-
-# Replace 'Book2.csv' with the actual path to your CSV file
-master_data = pd.read_csv('Book2.csv', sep=',', encoding='latin-1')
-print('data shape: ', master_data.shape)
-
-# ... (rest of your code)
+* Download the repository
+* Then first of all change the name of the data set
+* After that change the embeding (must recomended)
